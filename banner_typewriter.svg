@@ -25,13 +25,6 @@
   50% { border-color: orange; }
 }
 
-@keyframes mymove {
-  from { color: red }
-    to { color: yellow }
-            }				  
-h1 {color: red;
-   animation: mymove 2s infinite;
-    }
 
            
 			</style>
