@@ -1,4 +1,4 @@
-<div background-color="black" width="100%" height="100%">
+<span background-color="black" width="300px" height="300px">
 <div align="center">
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+</span>
