@@ -1,11 +1,11 @@
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/b2cc3812ef92932208c463d4cfb6c6793bfd24dd/banner_twocolors.svg?token=AU7TZPCJ3IXXHAWLPEG7PWTBXELFA" width="400" height="400" alt="css-in-readme">
+    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/b2cc3812ef92932208c463d4cfb6c6793bfd24dd/banner_twocolors.svg?token=AU7TZPCJ3IXXHAWLPEG7PWTBXELFA" width="400" height="50" alt="css-in-readme">
 </div>
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/a41a3072f5a45f2c7fa34c61695c19477338b141/banner_typewriter.svg?token=AU7TZPCDRDNYYT6KUVL2PZ3BXELGU" width="400" height="400" alt="css-in-readme">
+    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/a41a3072f5a45f2c7fa34c61695c19477338b141/banner_typewriter.svg?token=AU7TZPCDRDNYYT6KUVL2PZ3BXELGU" width="400" height="50" alt="css-in-readme">
 </div>
 
 
