@@ -16,8 +16,7 @@
 				h1 {
 				font-size: 40px;
 				color: black;
-				align-self: center;
-				justify-self: center;
+				text-align: right;
 				}
 				
 				
