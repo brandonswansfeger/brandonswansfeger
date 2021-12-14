@@ -24,21 +24,7 @@
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
- h1 {
-                color: red;
-                animation: mymove 9s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-
-           
+            
 			</style>
 			<div class="typewriter">
   <h1>The cat and the hat.</h1>
