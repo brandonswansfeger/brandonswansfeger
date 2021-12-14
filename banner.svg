@@ -1,46 +1,38 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <!DOCTYPE html>
-<html>
-<head>
-            <style>
-           body {
-  background: #333;
-  padding-top: 5em;
-  display: flex;
-  justify-content: center;
-}
-
-/* DEMO-SPECIFIC STYLES */
-.typewriter h1 {
-  color: #fff;
-  font-family: monospace;
-  
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s;
-}
-
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
-            </style>
-    </head>
-        <div class="typewriter">
-  <h1>The cat and the hat.</h1>
+        <html>
+  <head>
+    <title>Typewriter effect</title>
+  </head>
+  <style>
+    body{
+      background: navajowhite;
+      background-size: cover;
+      font-family: 'Trebuchet MS', sans-serif; 
+    }
+    .container{
+      display: inline-block;
+    }
+    .typed-out{
+      overflow: hidden;
+      border-right: .15em solid orange;
+      white-space: nowrap;
+      animation: 
+      typing 1s steps(20, end) forwards;
+      font-size: 1.6rem;
+      width: 0;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+  </style>
+<body>
+<h1>I'm Matt, I'm a</h1>
+<div class="container">
+  <div class="typed-out">Web Developer</div>
 </div>
+</body>
+</html>
     </foreignObject>
 </svg>
