@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/4a29f487c541fa6a86c52ed63cf5fc450c20c73b/banner.svg?token=AU7TZPETX72GOH3N6LPBNGLBXCBYW" width="400" height="400" alt="css-in-readme">
 </div>
 
 ### Hi there 👋
