@@ -4,6 +4,7 @@
             <style>
             h1 {
                 font-size: 60px;
+                text-align: center;
                 color: blue;
                 animation: mymove 2s infinite;
             }
