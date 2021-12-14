@@ -11,7 +11,7 @@
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s steps(100, end),
-    mymove 2s infinite step-end infinite;
+    mymove 20s infinite step-end infinite;
 }
 
 /* The typing effect */
