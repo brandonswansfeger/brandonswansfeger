@@ -27,7 +27,7 @@
 }
  h1 {
                 color: red;
-                animation: mymove 2s infinite;
+                animation: mymove 20s infinite;
             }
 
             @keyframes mymove {
