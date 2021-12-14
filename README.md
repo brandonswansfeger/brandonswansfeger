@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="600px" alt="css-in-readme">
+    <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="600px" style="margin-left:50px" alt="css-in-readme">
 </div>
 
 
