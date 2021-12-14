@@ -23,7 +23,7 @@
 				
 /* The typing effect */
 @keyframes typing {
-  from { width: 30% }
+  from { width: 40% }
   to { width: 100% }
 }
 
