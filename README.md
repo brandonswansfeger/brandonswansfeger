@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
 
