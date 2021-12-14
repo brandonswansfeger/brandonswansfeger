@@ -1,4 +1,4 @@
-<div background-color="black">
+<div background-color="black" width="100%" height="100%">
 <div align="left">
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
