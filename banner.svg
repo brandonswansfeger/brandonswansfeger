@@ -1,6 +1,9 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
+          <!DOCTYPE html>
+<html>
+<head>
             <style>
            body {
   background: #333;
@@ -35,6 +38,7 @@
   50% { border-color: orange }
 }
             </style>
+    </head>
         <div class="typewriter">
   <h1>The cat and the hat.</h1>
 </div>
