@@ -24,7 +24,7 @@
 				
 /* The typing effect */
 @keyframes typing {
-  from { width: 20% }
+  from { width: 0% }
   to { width: 80% }
 }
 
