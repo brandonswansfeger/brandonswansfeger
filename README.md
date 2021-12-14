@@ -4,7 +4,7 @@
 </div>
 
 
-<div align="right" margin-right="50px">
+<div align="right" style="margin-right:50px">
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="600px" style="margin-left:100px" alt="css-in-readme">
 </div>
 
