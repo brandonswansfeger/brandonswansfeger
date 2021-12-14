@@ -1,4 +1,4 @@
-<span background-color="black" width="300px" height="300px">
+<span background-color="red" width="300px" height="300px">
 <div align="center">
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
