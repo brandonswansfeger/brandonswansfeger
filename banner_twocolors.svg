@@ -2,25 +2,7 @@
     <foreignObject color="red" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                #js-pjax-container > div.container-xl.px-3.px-md-4.px-lg-5 > div > div.flex-shrink-0.col-12.col-md-3.mb-4.mb-md-0 > div > div.clearfix.d-flex.d-md-block.flex-items-center.mb-4.mb-md-0 > div.position-relative.d-inline-block.col-2.col-md-12.mr-3.mr-md-0.flex-shrink-0 > a > img {
-    max-width: 200px!important;
-    border-radius: 0px!important;
-}
 
-* {
-    font-family: "Montserrat" !important;
-}
-
-.blob-wrapper,
-.blob-wrapper *,
-code,
-code *,
-pre,
-pre *,
-.highlight ,
-.highlight *{
-    font-family: "JetBrains Mono"!important;
-}
             h1 {
                 font-size: 45px;
                 font-family: Consolas, "Helvetica Neue", Courier, monospace;
@@ -28,7 +10,7 @@ pre *,
                 color: blue;
                 animation: mymove 2s infinite;
                 justify-self: center;
-                text-align: cebter;
+                text-align: center;
                 margin-bottom: 10px;
                 margin-top: 20px;
             }
