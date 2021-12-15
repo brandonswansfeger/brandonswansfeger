@@ -23,7 +23,7 @@ pre *,
 }
             h1 {
                 font-size: 45px;
-                font-family: "JetBrains Mono"!important;
+                font-family: "Montserrat" !important;
                 text-align: center;
                 color: blue;
                 animation: mymove 2s infinite;
