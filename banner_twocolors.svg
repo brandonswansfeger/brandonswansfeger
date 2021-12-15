@@ -21,7 +21,7 @@
             }
 h2{
                 color: white;
-                margin-left:20px;}
+                text-align: cebnter;}
             </style>
              <h1>Brandon Swansfeger</h1>
             <h2>Full-Stack Developer</h2>
