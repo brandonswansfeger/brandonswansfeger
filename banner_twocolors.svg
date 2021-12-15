@@ -1,6 +1,6 @@
 <svg fill="red" width="700" height="150"  xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div style="background-color:red"  xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
             h1 {
@@ -30,6 +30,11 @@ h2{
                    justify-self: center;
                 margin-top: 0;
                 margin-bottom: 5px;}
+                
+                .box {
+                  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;}
              
                 @font-face {
   font-family: "poppins";
@@ -37,7 +42,7 @@ h2{
 }
 
             </style>
-        <div style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px 10px red">
+        <div class="box">
              <h1>BRANDON SWANSFEGER</h1>
             <h2>FULL-STACK DEVELOPER</h2>
             </div>
