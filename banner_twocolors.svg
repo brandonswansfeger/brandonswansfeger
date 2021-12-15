@@ -24,7 +24,8 @@ h2{
                 color: white;
                 text-align: center;
                    justify-self: center;
-                margin-top: 0;}
+                margin-top: 0;
+                margin-bottom: 5px;}
             </style>
              <h1>Brandon Swansfeger</h1>
             <h2>Full-Stack Developer</h2>
