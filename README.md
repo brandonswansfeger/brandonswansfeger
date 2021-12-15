@@ -1,4 +1,4 @@
-
+<img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Picture23GRAY.png?raw=true" width="800px">
 <div align="center">
        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
