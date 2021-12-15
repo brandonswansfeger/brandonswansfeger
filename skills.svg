@@ -1,11 +1,16 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject style="justify-content:center"
+ width="600px" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
 
-
-
-
-
-
-
-<i class="devicon-javascript-plain"></i>
+        .skills {
+        display: flex
+        flex-direcion: inline;}
+        
+			</style>
+			<div class="skills">
+  <i class="devicon-javascript-plain"></i>
 <i class="devicon-react-original-wordmark"></i>
 <i class="devicon-react-original-wordmark"></i>
 <i class="devicon-css3-plain-wordmark"></i>
@@ -13,4 +18,13 @@
 <i class="devicon-python-plain-wordmark"></i>
 <i class="devicon-django-plain"></i>
 <i class="devicon-mongodb-plain-wordmark"></i>
-<i class="devicon-express-original-wordmark"></i>
+<i class="devicon-express-original-wordmark"></i>h1>Welcome to my Github.</h1>
+</div>
+		</div>
+	</foreignObject>
+</svg>
+
+
+
+
+
