@@ -1,6 +1,6 @@
 
 <div align="center">
-       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture.PNG?raw=true" width="800px">
+       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture86.png?raw=true" width="800px">
        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
 
