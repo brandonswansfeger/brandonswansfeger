@@ -8,6 +8,7 @@
                 color: blue;
                 animation: mymove 2s infinite;
                 margin-left:20px;
+                justify-self: center;
             }
 
             @keyframes mymove {
@@ -22,8 +23,7 @@ h2{
                 color: white;
                 margin-left:20px;}
             </style>
-     
-            <h1>Brandon Swansfeger.</h1>
+                 <h1>Brandon Swansfeger.</h1>
         </div>
     </foreignObject>
 </svg>
