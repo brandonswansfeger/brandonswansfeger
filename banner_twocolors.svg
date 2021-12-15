@@ -9,6 +9,7 @@
                 animation: mymove 2s infinite;
                 margin-left:20px;
                 justify-self: center;
+                text-align: cebter;
             }
 
             @keyframes mymove {
