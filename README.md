@@ -1,6 +1,6 @@
-<div style="border:1px solid; padding:10px; box-shadow:5px 10px red">
+<div >
 <div align="center">
-       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px">
+<!--        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px"> -->
        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
 
