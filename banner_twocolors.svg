@@ -1,7 +1,6 @@
 <svg style="background-color:gray" fill="red" viewBox="0 0 700 150" width="700" height="150" xmlns="http://www.w3.org/2000/svg">
     <foreignObject color="red" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-           <link href="https://fonts.googleapis.com/css2?family=Gentium+Basic&family=Libre+Franklin&family=Racing+Sans+One&family=Rubik&display=swap" rel="stylesheet">
             <style>
             h1 {
                 font-size: 45px;
