@@ -29,9 +29,10 @@ h2{
                    justify-self: center;
                 margin-top: 0;
                 margin-bottom: 5px;}
+             
                 @font-face {
-  font-family: poppins;
-  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2);
+  font-family: "poppins";
+  src: url('https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2') format('woff2');
 }
 
             </style>
