@@ -1,7 +1,7 @@
 <div style="border:3pt solid black; padding:5px">
 <div align="center">
 <!--        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px"> -->
-       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" width="800PX" alt="css-in-readme">
+       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
 
 
