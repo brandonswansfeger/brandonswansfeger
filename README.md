@@ -8,12 +8,10 @@
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="800px" alt="css-in-readme">
 </div>
 
-
+</br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.visitor-badge)
-<!--
-**brandonswansfeger/brandonswansfeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.brandonswansfeger)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,3 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div></div>
