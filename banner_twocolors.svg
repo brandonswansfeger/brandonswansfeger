@@ -22,7 +22,7 @@ h2{
                 color: white;
                 margin-left:20px;}
             </style>
-            <h2>Hi, my name is</h2>
+            <img width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
             <h1>Brandon Swansfeger.</h1>
         </div>
     </foreignObject>
