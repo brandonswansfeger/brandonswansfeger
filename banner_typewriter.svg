@@ -28,7 +28,7 @@
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: blue }
+  100% { border-color: blue }
 }
 			</style>
 			<div class="typewriter">
