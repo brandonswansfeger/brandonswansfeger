@@ -31,7 +31,7 @@ h2{
                 margin-bottom: 5px;}
                 @font-face {
   font-family: poppins;
-  src: url(data:font/woff;charset=utf-8;base64,https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff');
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2);
 }
 
             </style>
