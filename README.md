@@ -1,5 +1,7 @@
 
 <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
 </div>
 
