@@ -37,8 +37,8 @@ h2{
 }
 
             </style>
-        <div>
-             <h1  style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px 10px red" >BRANDON SWANSFEGER</h1>
+        <div style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px 10px red">
+             <h1>BRANDON SWANSFEGER</h1>
             <h2>FULL-STACK DEVELOPER</h2>
             </div>
         </div>
