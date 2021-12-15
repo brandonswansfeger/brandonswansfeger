@@ -13,6 +13,7 @@
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   text-align: flex-end;
   letter-spacing: .15em; /* Adjust as needed */
+  padding: 5px;
   animation: 
     typing 3.5s steps(30, end),
     blink-caret .5s step-end infinite;
