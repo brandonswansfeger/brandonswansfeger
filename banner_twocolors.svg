@@ -33,7 +33,7 @@ h2{
                 
                 .box {
               border: 1px solid;
-                background-coloe: gray;
+                background-color: gray;
   padding: 10px;
   box-shadow: 5px 10px blue;}
              
