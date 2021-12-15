@@ -22,7 +22,8 @@
 h2{
                 color: white;
                 text-align: center;
-                   justify-self: center;}
+                   justify-self: center;
+                margin-top: 0;}
             </style>
              <h1>Brandon Swansfeger</h1>
             <h2>Full-Stack Developer</h2>
