@@ -23,7 +23,7 @@ pre *,
 }
             h1 {
                 font-size: 45px;
-                font-family: "Montserrat" !important;
+                font-family: Consolas, "Liberation Mono", Courier, monospace;
                 text-align: center;
                 color: blue;
                 animation: mymove 2s infinite;
