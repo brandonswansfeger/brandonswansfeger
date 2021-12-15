@@ -3,7 +3,9 @@
  width="600px" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+				
         .skills {
         display: flex
         flex-direcion: inline;}
