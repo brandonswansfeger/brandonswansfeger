@@ -1,6 +1,6 @@
 <svg fill="red" viewBox="0 0 700 150" width="700" height="150" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px 10px red"   xmlns="http://www.w3.org/1999/xhtml">
+        <div  xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
             h1 {
@@ -38,7 +38,7 @@ h2{
 
             </style>
          
-             <h1 style="font-family:poppins">BRANDON SWANSFEGER</h1>
+             <h1  style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px 10px red" >BRANDON SWANSFEGER</h1>
             <h2>FULL-STACK DEVELOPER</h2>
         </div>
     </foreignObject>
