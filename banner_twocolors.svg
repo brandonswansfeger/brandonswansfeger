@@ -10,6 +10,7 @@
                 justify-self: center;
                 text-align: cebter;
                 margin-bottom: 10px;
+                margin-top: 25px;
             }
 
             @keyframes mymove {
