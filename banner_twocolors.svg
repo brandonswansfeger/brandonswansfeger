@@ -32,9 +32,10 @@ h2{
                 margin-bottom: 5px;}
                 
                 .box {
-                  border: 1px solid;
+              border: 1px solid;
+                background-coloe: gray;
   padding: 10px;
-  box-shadow: 5px 10px;}
+  box-shadow: 5px 10px blue;}
              
                 @font-face {
   font-family: "poppins";
@@ -45,7 +46,8 @@ h2{
         <div class="box">
              <h1>BRANDON SWANSFEGER</h1>
             <h2>FULL-STACK DEVELOPER</h2>
-          </div>
-    </foreignObject>
+          </div>   
         </div>
+    </foreignObject>
+  
 </svg>
