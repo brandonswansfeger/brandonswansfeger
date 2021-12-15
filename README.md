@@ -11,7 +11,7 @@
 </div>
 </br>
 
-![visitor badge]('https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.visitor-badge')
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.visitor-badge)
 
 Here are some ideas to get you started:
 
