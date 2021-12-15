@@ -37,7 +37,7 @@ h2{
 }
 
             </style>
-        <div style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px 10px red">
+        <div style="background-color:gray; border:1px solid; padding:10px; box-shadow:5px10pxred">
              <h1>BRANDON SWANSFEGER</h1>
             <h2>FULL-STACK DEVELOPER</h2>
             </div>
