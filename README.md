@@ -1,12 +1,12 @@
 
 <div align="center">
-       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture86.png?raw=true" width="800px">
-       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" alt="css-in-readme">
+       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture86.png?raw=true" width="700px">
+       <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" width="700PX" alt="css-in-readme">
 </div>
 
 
 <div align="center" >
-    <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="800px" alt="css-in-readme">
+    <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="700px" alt="css-in-readme">
 </div>
 
 </br>
