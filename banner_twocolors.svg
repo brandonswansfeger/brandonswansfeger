@@ -24,7 +24,7 @@
             }
 			
                 .box    {
-  display: flex;
+ 
   background-color: gray;
 		    border: 1px solid black;
   background-image:
@@ -65,9 +65,10 @@
   
 		  
             </style>
-     		
+     		<div class="flex">
              <h1>BRANDON SWANSFEGER</h1>
            <h2>FULL-STACK DEVELOPER</h2>
+	    </div>
 	    </div>
 	            
     </foreignObject>
