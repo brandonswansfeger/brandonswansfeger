@@ -1,5 +1,6 @@
 <div >
-<div class="box" qqalign="center">
+<div class="box"  style="border:1px solid; background-color:gray; padding:10px;
+  box-shadow:5px 10px blue"} qqalign="center">
 <!--        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px"> -->
        <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/dfb9b68f455e5ef6b67bf41522aac4710f358337/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
