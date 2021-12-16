@@ -1,4 +1,4 @@
-       <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/8e39cff46ccca4622e97291f9ae195bbf428e9ed/banner_twocolors.svg" width="750PX" alt="css-in-readme">
+       <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/8e39cff46ccca4622e97291f9ae195bbf428e9ed/banner_twocolors.svg" width="100%" height="100%" alt="css-in-readme">
 
 <div align="center" >
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture.PNG?raw=true" width="750px" alt="css-in-readme">
