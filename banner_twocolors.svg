@@ -30,11 +30,15 @@
                 margin-top: 0;
                 margin-bottom: 5px;}
                 
-                .box {
-              border: 1px solid;
-                background-color: gray;
-  padding: 10px;
-  box-shadow: 5px 10px blue;}
+                .box    {
+  height: 100px;
+  background-color: red;
+  background-image:
+    linear-gradient(
+      to top right, 
+      red, #f06d06
+    );
+}
           
 		  
             </style>
