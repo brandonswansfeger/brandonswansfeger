@@ -23,7 +23,7 @@
                     color: black;
                 }
             }
-h2{
+			h2{
                 color: white;
                 font-size: 25px;
                 text-align: center;
@@ -36,7 +36,8 @@ h2{
                 background-color: gray;
   padding: 10px;
   box-shadow: 5px 10px blue;}
-                         .typewriter h1 {
+          
+		    .typewriter h3 {
   color: black;
   font-size: 30px;
   font-family: monospace;
@@ -51,8 +52,7 @@ h2{
     typing 3.5s steps(30, end),
     blink-caret .5s step-end infinite;
 }
-				
-				
+			
 				
 @keyframes typing {
   from { width: 0 }
@@ -72,7 +72,7 @@ h2{
 w
 			</style>
 			<div class="typewriter">
-  <h1>Welcome to my Github.</h1>
+  <h3>Welcome to my Github.</h3>
         </div>
         
     </foreignObject>
