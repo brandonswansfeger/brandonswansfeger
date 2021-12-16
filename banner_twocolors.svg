@@ -38,11 +38,6 @@ h2{
   padding: 10px;
   box-shadow: 5px 10px blue;}
              
-                @font-face {
-  font-family: "poppins";
-  src: url('https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2') format('woff2');
-}
-
             </style>
         <div>
              <h1>BRANDON SWANSFEGER</h1>
