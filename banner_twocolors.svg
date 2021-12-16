@@ -6,7 +6,7 @@
             h1 {
                 font-size: 40px;
                         text-align: center;
-                color: blue;
+                color: #2c3e50;
                 animation: mymove 2s infinite;
                 justify-self: center;
                 text-align: center;
