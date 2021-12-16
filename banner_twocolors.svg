@@ -33,6 +33,7 @@
                 .box    {
   
   background-color: gray;
+		    border: 2px solid;
   background-image:
     linear-gradient(
       to top right, 
