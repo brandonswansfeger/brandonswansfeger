@@ -24,7 +24,7 @@
             }
 			
                 .box    {
-  
+  display: flex;
   background-color: gray;
 		    border: 1px solid black;
   background-image:
