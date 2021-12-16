@@ -5,7 +5,7 @@
        <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/a69095d88cff46559ff280c5543bb89935841854/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
 <div align="center" >
-<!--     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture.PNG?raw=true" width="700px" alt="css-in-readme"> -->
+    <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture.PNG?raw=true" width="700px" alt="css-in-readme">
 </div>
 </div>
 </br>
