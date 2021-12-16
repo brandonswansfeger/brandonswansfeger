@@ -1,6 +1,6 @@
 <svg fill="red" viewbox="0 0 700 300" width="700px" height="300px"  xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" >
-        <div class="box"  xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
             h1 {
