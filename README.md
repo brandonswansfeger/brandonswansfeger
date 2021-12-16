@@ -1,7 +1,7 @@
 <div >
 <div align="center">
 <!--        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px"> -->
-       <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/be76323cadb81c7f6114244a7e08f50c93a8a15f/banner_twocolors.svg" width="750PX" alt="css-in-readme">
+       <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/dfb9b68f455e5ef6b67bf41522aac4710f358337/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
 <div align="center" >
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="700px" alt="css-in-readme">
