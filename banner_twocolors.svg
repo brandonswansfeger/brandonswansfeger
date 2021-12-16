@@ -10,8 +10,7 @@
                 animation: mymove 4s infinite;
                 justify-self: center;
                 text-align: center;
-                margin-bottom: 10px;
-                margin-top: 20px;
+                 margin-top: 20px;
             }
 
             @keyframes mymove {
@@ -40,7 +39,6 @@
   border-right: .15em solid blue; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  text-align: flex-end;
   letter-spacing: .15em; /* Adjust as needed */
   padding: 5px;
   animation: 
