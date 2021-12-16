@@ -36,7 +36,7 @@
   background-image:
     linear-gradient(
       to top right, 
-      gray, blue
+     #bdc3c7, #2c3e50
     );
 }
           
