@@ -1,6 +1,6 @@
 <svg fill="red" viewbox="0 0 700 300" width="700px" height="300px"  xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div  xmlns="http://www.w3.org/1999/xhtml">
+    <foreignObject width="100%" >
+        <div class="box"  xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
             h1 {
@@ -39,10 +39,10 @@
           
 		  
             </style>
-        <div  class="box">
+      
              <h1>BRANDON SWANSFEGER</h1>
             <h2>FULL-STACK DEVELOPER</h2>
-          </div>  
+         
 
 	    </div>	        
     </foreignObject>
