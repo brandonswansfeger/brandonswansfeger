@@ -1,12 +1,11 @@
 <svg fill="red" viewbox="0 0 700 300" width="700px" height="300px"  xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" >
+    <foreignObject height="100%" width="100%" >
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 
             h1 {
                 font-size: 25px;
-                font-family: poppins;
-                text-align: center;
+                        text-align: center;
                 color: blue;
                 animation: mymove 2s infinite;
                 justify-self: center;
