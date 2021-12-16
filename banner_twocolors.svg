@@ -16,10 +16,10 @@
 
             @keyframes mymove {
                 from {
-                    color: blue;
+                    color: white;
                 }
                 to {
-                    color: black;
+                    color: #2c3e50;
                 }
             }
 			h2{
