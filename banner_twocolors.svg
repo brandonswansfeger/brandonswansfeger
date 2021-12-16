@@ -31,7 +31,7 @@
                 margin-bottom: 5px;}
                 
                 .box    {
-  height: 100px;
+  
   background-color: gray;
   background-image:
     linear-gradient(
