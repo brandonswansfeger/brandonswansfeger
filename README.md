@@ -1,5 +1,5 @@
 <div >
-<div align="center">
+<div class="box" qqalign="center">
 <!--        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px"> -->
        <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/dfb9b68f455e5ef6b67bf41522aac4710f358337/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
