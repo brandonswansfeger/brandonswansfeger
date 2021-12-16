@@ -3,8 +3,6 @@
 <!--        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Untitled.png?raw=true" width="600px"> -->
        <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_twocolors.svg" width="750PX" alt="css-in-readme">
 </div>
-
-
 <div align="center" >
     <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/banner_typewriter.svg" width="700px" alt="css-in-readme">
 </div>
