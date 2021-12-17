@@ -1,4 +1,34 @@
-
+<svg fill="none" class="box" viewBox="0 0 700 200" width="700" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h2 {
+                font-size: 30px;
+                        text-align: center;
+                color: #2c3e50;
+                animation: mymove 4s infinite;
+                justify-self: center;
+                text-align: center;
+                 margin-top: 20px;
+            }
+            @keyframes mymove {
+                from {
+                    color: lightgray;
+                }
+                to {
+                    color: #2c3e50;
+                }
+            }
+			
+                .box    {
+ 
+  background-color: gray;
+		    border: 1px solid black;
+  background-image:
+    linear-gradient(
+      to top right, 
+     #bdc3c7, #2c3e50
+    );
 }
  h1 {
   color: #2c3e50;
