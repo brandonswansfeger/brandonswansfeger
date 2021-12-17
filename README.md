@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-<img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/logo%20bcs.png?raw=true" width="75%" height="75%" alt="css-in-readme">
+<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/61e2dd253e5ed967fa1c655f80aa35a81ca6737c/version2.svg" width="75%" height="75%" alt="css-in-readme">
 </div>
        
 <div align="center" >
