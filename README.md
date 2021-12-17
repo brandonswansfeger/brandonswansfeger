@@ -1,4 +1,5 @@
 <div>
+<div>
 <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/8e39cff46ccca4622e97291f9ae195bbf428e9ed/banner_twocolors.svg" width="100%" height="100%" alt="css-in-readme">
 </div>
        
@@ -7,7 +8,7 @@
 </div>
 
 </br>
-
+</div>
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.visitor-badge)
 
