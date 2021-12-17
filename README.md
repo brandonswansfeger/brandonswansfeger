@@ -1,14 +1,12 @@
-<div>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/61e2dd253e5ed967fa1c655f80aa35a81ca6737c/version2.svg" width="75%" height="75%" alt="css-in-readme">
 </div>
        
-<div align="center" >
-    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/904abcf0143f5db4b0c5e9a4ea0e3d68ea253c75/banner_typewriter.svg" width="750px" alt="css-in-readme">
-</div>
+
 
 </br>
-</div>
+
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.visitor-badge)
 
