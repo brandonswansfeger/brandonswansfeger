@@ -4,7 +4,7 @@
 </div>
        
 <div align="center" >
-    <img src="https://github.com/brandonswansfeger/brandonswansfeger/blob/main/Capture.PNG?raw=true" width="750px" alt="css-in-readme">
+    <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/904abcf0143f5db4b0c5e9a4ea0e3d68ea253c75/banner_typewriter.svg" width="750px" alt="css-in-readme">
 </div>
 
 </br>
