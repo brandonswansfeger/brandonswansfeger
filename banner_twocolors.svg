@@ -2,68 +2,55 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h2 {
-                font-size: 30px;
-                        text-align: center;
-                color: #2c3e50;
-                animation: mymove 4s infinite;
-                justify-self: center;
-                text-align: center;
-                 margin-top: 20px;
-            }
-            @keyframes mymove {
-                from {
-                    color: lightgray;
-                }
-                to {
-                    color: #2c3e50;
-                }
-            }
-			
-                .box    {
- 
-  background-color: gray;
-		    border: 1px solid black;
-  background-image:
-    linear-gradient(
-      to top right, 
-     #bdc3c7, #2c3e50
-    );
-}
- h1 {
-  color: #2c3e50;
-		    margin-top: 0;
-  font-size: 40px;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid blue; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  padding: 5px;
-  animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s step-end infinite;
-}
-				
-				
-				
-@keyframes typing {
-  from { width: 0 }
-  to { width: 80% }
-}
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: blue }
-}
-		    .flex {
-		    display: flex;
-		    flex-direction: column;
-		    align-items: center;
-		    justify-content: center;
-		    height: 200px;
-		    }
+           body { font: 400 1em/1.5 "Neuton"; background: #090d00; color: rgba(255,255,255,.25); text-align: center; margin: 0 }
+
+p {
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	display: inline-block;
+	border: 4px double rgba(255,255,255,.25);
+	border-width: 4px 0;
+	padding: 1.5em 0em;
+	position: absolute;
+	top: 18%;
+	left: 50%;
+	width: 40em;
+	margin: 0 0 0 -20em;
   
+  span {
+
+  	font: 700 4em/1 "Oswald", sans-serif;
+  	letter-spacing: 0;
+  	padding: .25em 0 .325em;
+	  display: block;
+	  margin: 0 auto;
+  	text-shadow: 0 0 80px rgba(255,255,255,.5);
+
+/* Clip Background Image */
+
+	  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+	  -webkit-background-clip: text;
+	  background-clip: text;
+
+/* Animate Background Image */
+
+	  -webkit-text-fill-color: transparent;
+	  -webkit-animation: aitf 80s linear infinite;
+
+/* Activate hardware acceleration for smoother animations */
+
+	  -webkit-transform: translate3d(0,0,0);
+	  -webkit-backface-visibility: hidden;
+
+  }
+}
+
+/* Animate Background Image */
+
+@-webkit-keyframes aitf {
+	0% { background-position: 0% 50%; }
+	100% { background-position: 100% 50%; }
+}
 		  
             </style>
      		<div class="flex">
