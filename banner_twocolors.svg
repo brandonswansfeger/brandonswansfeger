@@ -50,7 +50,7 @@ h1 {
   }
 }
             </style>
-                  
+	    <div class="bg"></div>
 
   <h1 class="content">Sliding Diagonals Background Effect</h1>
 		  
