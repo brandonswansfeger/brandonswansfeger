@@ -54,9 +54,13 @@ p {
 		  
             </style>
      		<div class="flex">
-             <h1>BRANDON SWANSFEGER</h1>
-           <h2>SOFTWARE DEVELOPER | FULL-STACK</h2>
-	    </div>
+             <p>
+  Spice up your type with CSS
+  <span>
+    Animated text fill
+  </span>
+  &mdash; no JavaScript required &mdash;
+</p
 	    </div>
 	            
     </foreignObject>
