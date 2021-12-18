@@ -53,12 +53,11 @@ p {
 		  
             </style>
                   
-	    <div
-		 ><p>
-  Spice up your type with CSS
-  <span>
+	    <div>
+<p>Spice up your type with CSS
+<!--   <span>
     Animated text fill
-  </span>
+  </span> -->
   no JavaScript required</p
 	   
 		    </div>
