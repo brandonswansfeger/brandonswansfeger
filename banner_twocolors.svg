@@ -53,14 +53,13 @@ p {
 }
 		  
             </style>
-     		<div class="flex">
-             <p>
+                  <p>
   Spice up your type with CSS
   <span>
     Animated text fill
   </span>
   no JavaScript required</p
-	    </div>
+	   
 	            
     </foreignObject>
 	
