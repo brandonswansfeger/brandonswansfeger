@@ -55,7 +55,7 @@ p {
                   
 	    <div>
 <p>Spice up your type with CSS
-	no JavaScript required</p>
+	<span>no JavaScript </span> required</p>
 	   
 		    </div>
 	  </div>
