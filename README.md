@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/61e2dd253e5ed967fa1c655f80aa35a81ca6737c/version2.svg" width="75%" height="75%" alt="css-in-readme">
+<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/427b1d54b0648e38a5068cd77b9e3756d718adcd/banner_twocolors.svg" width="75%" height="75%" alt="css-in-readme">
 </div>
        
 
