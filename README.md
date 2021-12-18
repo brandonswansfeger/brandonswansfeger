@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/77b9f357941042ea979f72ac103e90199276a992/banner_twocolors.svg" width="75%" height="75%" alt="css-in-readme">
 </div>
 <div align="center">
-       <a href="https://brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f"></a>
+       <a href="https://www.brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f"></a>
 	<a href="https://www.linkedin.com/in/brandonswansfeger"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
        <a href=-"https://github.com/brandonswansfeger"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
