@@ -65,7 +65,7 @@ h1 {
   from { width: 0 }
   to { width: 80% }
             </style>
-	    <div class="bg">	       <a href="https://www.brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f" height="28px"></a></div>
+	    <div class="bg"></div>
 	     <div class="bg2"></div>
 	     <div class="bg3"></div>
 
