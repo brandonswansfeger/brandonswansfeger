@@ -22,14 +22,14 @@
 			
                 .box    {
  
-  background-color: gray;
+<!--   background-color: gray;
 		    border: 1px solid black;
   background-image:
     linear-gradient(
       to top right, 
      #bdc3c7, #2c3e50
     );
-}
+} -->
  h1 {
   color: #2c3e50;
 		    margin-top: 0;
@@ -72,7 +72,7 @@
   animation-duration:5s;
 }
 
-<!-- .content {
+.content {
   background-color:rgba(255,255,255,.8);
   border-radius:.25em;
   box-shadow:0 0 .25em rgba(0,0,0,.25);
@@ -83,7 +83,7 @@
   text-align:center;
   top:50%;
   transform:translate(-50%, -50%);
-} -->
+}
 
 
 @keyframes slide {
@@ -100,7 +100,7 @@
 	     <div class="bg3"></div>
 		    
 	    
-			<div class="flex">
+			<div class="flex content">
              <h1>BRANDON SWANSFEGER</h1>
            <h2>SOFTWARE DEVELOPER | FULL-STACK</h2>
 	    </div>
