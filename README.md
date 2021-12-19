@@ -3,7 +3,7 @@
 <div align="center">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/ee2d75fd588fcab138bb2d1855c9a67bfbea236a/banner_twocolors.svg" width="75%" height="75%" alt="css-in-readme">
+<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/ee2d75fd588fcab138bb2d1855c9a67bfbea236a/banner_twocolors.svg" width="100%" height="100%" alt="css-in-readme">
 </div>
 <div align="center">
        <a href="https://www.brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f" height="28px"></a>
