@@ -40,6 +40,7 @@
 
 h1 {
   font-size=40px;
+  color:#5CE1E6; 
 		     overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid blue; /* The typwriter cursor */
 <!--   white-space: nowrap; /* Keeps the content on a single line */ -->
