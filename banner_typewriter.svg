@@ -94,7 +94,19 @@
     transform:translateX(25%);
   }
 }
-			</style>
+				   </style>
+	    <div class="bg"></div>
+	     <div class="bg2"></div>
+	     <div class="bg3"></div>
+
+  <h1 class="content">Sliding Diagonals Background Effect</h1>
+	    <h2 class="content">SOFTWARE DEVELOPER | FULL-STACK</h2>
+		  
+	</div>
+    </foreignObject>
+	
+</svg>
+<!-- 			</style>
 	        <div class="bg"></div>
 	     <div class="bg2"></div>
 	     <div class="bg3"></div>
@@ -109,3 +121,4 @@
     </foreignObject>
 	
 </svg>
+ -->
