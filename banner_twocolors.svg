@@ -39,6 +39,9 @@
 
 h1 {
   font-family:monospace;
+    animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
 }
 
 @keyframes slide {
@@ -49,6 +52,10 @@ h1 {
     transform:translateX(25%);
   }
 }
+		    							
+@keyframes typing {
+  from { width: 0 }
+  to { width: 80% }
             </style>
 	    <div class="bg"></div>
 	     <div class="bg2"></div>
