@@ -35,6 +35,7 @@
   text-align:center;
   top:50%;
   transform:translate(-50%, -50%);
+}
 
 h1 {
   font-size=40px;
@@ -66,8 +67,8 @@ h1 {
 	     <div class="bg2"></div>
 	     <div class="bg3"></div>
 
-	    <h1 class="content">BRANDON SWANSFEGER dddddddd</h1>
-	
+	    <h1 class="content">BRANDON SWANSFEGER</h1>
+	  <h1 class="content">BRANDONffff SWANSFEGER</h1>
 		  
 	</div>
     </foreignObject>
