@@ -1,5 +1,5 @@
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brandonswansfeger.brandonswansfeger)
 
 <div align="center">
 
