@@ -29,6 +29,7 @@
   border-radius:.25em;
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
+   width: 200px;
   left:50%;
   padding:5vmin;
   position:fixed;
