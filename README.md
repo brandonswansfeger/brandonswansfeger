@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/4f6f66f586321db8fb74df8efa9db92834146c60/banner_twocolors.svg" width="100%" height="100%" alt="css-in-readme">
 </div>
 <div align="center">
-       <a href="https://www.brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f" height="28px"></a>
+       <a href="https://brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f" height="28px"></a>
 	<a href="https://www.linkedin.com/in/brandonswansfeger"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
        <a href="https://github.com/brandonswansfeger"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
