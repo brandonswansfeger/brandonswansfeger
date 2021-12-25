@@ -75,8 +75,8 @@ letter-spacing: .15em; /* Adjust as needed */
 	     <div class="bg2"></div>
 	     <div class="bg3"></div>
 
-	    <h1 class="content">BRANDON SWANSFEGER </h1>
-	 <h1 class="content">Software Developer </h1>
+	    <h1 class="content">BRANDON SWANSFEGER </br> Software Developer </h1>
+	
 		</div>
     </foreignObject>
 	
