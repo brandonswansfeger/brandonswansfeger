@@ -4,7 +4,7 @@
 <div align="center">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/988b30b4b33edfc615780e2ffa81034208b096d6/banner_twocolors.svg" "width:80vw" height="100%" alt="css-in-readme">
+<img src="https://raw.githubusercontent.com/brandonswansfeger/brandonswansfeger/main/banner_twocolors.svg" "width:80vw" height="100%" alt="css-in-readme">
 </div>
 <div align="center">
        <a href="http://brandonswansfeger.com"><img src="https://img.shields.io/static/v1?label=Personal+Website&message=visit&color=2ea44f" height="28px"></a>
