@@ -29,7 +29,7 @@
   border-radius:.25em;
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
-   width: 90%;
+   width: 95%;
 Height:90%;
 Margin-bottom: 5px;
 Margin-top:5px;
