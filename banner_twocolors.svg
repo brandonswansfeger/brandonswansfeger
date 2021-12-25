@@ -30,8 +30,9 @@
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
    width: 90%;
-Height:70%;
+Height:90%;
 Margin-bottom: 5px;
+Margin-top:5px;
 Top:25%;
   left:50%;
   padding:5vmin;
