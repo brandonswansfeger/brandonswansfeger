@@ -31,7 +31,7 @@
   box-sizing:border-box;
    width: 95%;
 Height:85%;
-Margin-bottom: 5px;
+Margin-bottom: 15px;
 Margin-top:5px;
 Top:50%;
   left:50%;
