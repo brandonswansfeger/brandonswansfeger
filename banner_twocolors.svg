@@ -32,6 +32,7 @@
    width: 90%;
 Height:70%;
 Margin-bottom: 5px;
+Top:25%;
   left:50%;
   padding:5vmin;
   position:fixed;
