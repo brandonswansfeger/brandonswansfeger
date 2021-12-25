@@ -49,7 +49,8 @@ h1 {
   border-right: .15em solid gray; /* The typwriter cursor */
 white-space: wrap; / Keeps the content on a single line */ -->
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
+  Margin-right: 5px;
+letter-spacing: .15em; /* Adjust as needed */
   padding: 5px;
     animation: 
     typing 3.5s steps(30, end),
