@@ -51,6 +51,7 @@ h1 {
 white-space: wrap; / Keeps the content on a single line */ -->
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   Margin-right: 5px;
+		    height:90%;
 Margin-left: 2pm;
 		    margin-top:0;
 letter-spacing: .15em; /* Adjust as needed */
