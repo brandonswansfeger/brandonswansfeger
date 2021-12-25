@@ -1,5 +1,5 @@
 <svg fill="none"  viewBox="0 0 100% 100%" width="100vw" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="90%">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
  
@@ -30,7 +30,7 @@
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
    width: 95%;
-Height:90%;
+Height:85%;
 Margin-bottom: 5px;
 Margin-top:5px;
 Top:50%;
