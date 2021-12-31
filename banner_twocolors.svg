@@ -31,7 +31,7 @@
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
   max-width: 800px;
-max-width: 600px;
+max-width: 800px;
 Height:100%;
 Margin-bottom: 15px;
 Margin-top:5px;
